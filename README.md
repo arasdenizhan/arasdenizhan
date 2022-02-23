@@ -4,6 +4,6 @@
 - 💬 You can always ask me about anything 😄
 - 📫 How to reach me: denozhan@hotmail.com \
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aras-denizhan&layout=compact&theme=highcontrast)](https://github.com/arasdenizhan/) \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasdenizhan&layout=compact&theme=highcontrast)](https://github.com/arasdenizhan/) \
 \
-[![aras-denizhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aras-denizhan&theme=highcontrast)](https://github.com/arasdenizhan/)
+[![aras-denizhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arasdenizhan&theme=highcontrast)](https://github.com/arasdenizhan/)
