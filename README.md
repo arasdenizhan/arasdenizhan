@@ -1,6 +1,6 @@
 ### I am Denizhan, welcome to my profile. 👋
 
-- 🔭 I’m currently working on Solvia Digital Solutions as a Java Developer.
+- 🔭 I’m currently working on Bally's Interactive (Gamesys) as a Software Engineer.
 - 💬 You can always ask me about anything 😄
 - 📫 How to reach me: denozhan@hotmail.com \
 \
